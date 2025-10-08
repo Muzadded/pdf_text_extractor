@@ -4,9 +4,7 @@
 pip install pdfplumber
 ```
 
-## Usage
-
-### Single Invoice
+## Run
 ```python
 python extract_pdf.py
 ```
